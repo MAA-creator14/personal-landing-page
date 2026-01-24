@@ -28,13 +28,13 @@ export default function Hero() {
         >
           <div className="space-y-4 text-lg md:text-xl text-neutral-dark/80 leading-relaxed">
             <p>
-              I'm Marc Abraham, an experienced product person, interested in everything digital. 
-              I've worked for a large number of successful digital organisations, at Intercom, 
+              I&apos;m Marc Abraham, an experienced product person, interested in everything digital. 
+              I&apos;ve worked for a large number of successful digital organisations, at Intercom, 
               ASOS and WorldFirst among others.
             </p>
             <p>
-              You can find my learnings in my blog titled "As I learn" and my books "My Product 
-              Management Toolkit" and "Managing Product = Managing Tension".
+              You can find my learnings in my blog titled &quot;As I learn&quot; and my books &quot;My Product 
+              Management Toolkit&quot; and &quot;Managing Product = Managing Tension&quot;.
             </p>
             <p>
               Having built eCommerce, Fintech, digital content and SaaS products I now work with 

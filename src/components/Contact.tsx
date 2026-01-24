@@ -31,7 +31,7 @@ export default function Contact() {
           className="text-center mb-12"
         >
           <h2 className="text-4xl md:text-5xl font-heading font-bold text-neutral-dark mb-4">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
           <p className="text-lg text-neutral-dark/70">
             Get in touch to discuss product management, digital innovation, or collaboration opportunities

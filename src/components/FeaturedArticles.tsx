@@ -22,7 +22,7 @@ export default function FeaturedArticles() {
             </h2>
           </div>
           <p className="text-lg text-neutral-dark/70 max-w-3xl mx-auto leading-relaxed">
-            I've been blogging for 10+ years capturing things I have been learning about a wide 
+            I&apos;ve been blogging for 10+ years capturing things I have been learning about a wide 
             variety topics all related to digital (product). From reviewing products to sharing all 
             tools in My Product Management Toolkit, I aim to make my articles as practical and 
             actionable as possible.
