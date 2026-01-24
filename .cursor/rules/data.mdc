@@ -1,0 +1,8 @@
+---
+
+description: This rule helps to provide better code quickly by defining a clear data model
+applyAlways: false
+
+---
+
+Define a clear data model before writing any code.

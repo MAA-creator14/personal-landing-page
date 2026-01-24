@@ -16,7 +16,7 @@ export const featuredArticles: Article[] = [
   {
     id: 'personal-crm',
     title: 'Building a personal CRM in Lovable',
-    url: 'https://marcabraham.com/2025/11/10/building-a-personal-crm-in-lovable/,
+    url: 'https://marcabraham.com/2025/11/10/building-a-personal-crm-in-lovable/',
     description: 'Sharing my personal learnings from building my personal CRM product here, enabling people to add key contacts and track their interactions.',
   },
   {
