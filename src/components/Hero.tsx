@@ -36,11 +36,6 @@ export default function Hero() {
               You can find my learnings in my blog titled &quot;As I learn&quot; and my books &quot;My Product 
               Management Toolkit&quot; and &quot;Managing Product = Managing Tension&quot;.
             </p>
-            <p>
-              Having built eCommerce, Fintech, digital content and SaaS products I now work with 
-              organisations and individuals to enable them to deliver customer value whilst achieving 
-              business results.
-            </p>
           </div>
         </motion.div>
 
