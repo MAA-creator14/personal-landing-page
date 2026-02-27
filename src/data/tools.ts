@@ -39,6 +39,12 @@ export const toolsTableRows: ToolCategoryRow[] = [
     ],
   },
   {
+    category: 'Presentation',
+    tools: [
+      { name: 'Gamma', url: 'https://gamma.app/' },
+    ],
+  },
+  {
     category: 'Agentic',
     tools: [
       { name: 'Cassidy', url: 'https://www.cassidyai.com/' },
